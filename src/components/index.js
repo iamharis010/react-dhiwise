@@ -12,9 +12,9 @@ import { Button } from "./Button";
 import { CheckBox } from "./CheckBox";
 import { RatingBar } from "./RatingBar";
 import { PagerIndicator } from "./PagerIndicator";
+import { Slider } from "./Slider";
 import { Input } from "./Input";
 import { SelectBox } from "./SelectBox";
-import { Slider } from "./Slider";
 export {
   Column,
   Datepicker,
@@ -30,7 +30,7 @@ export {
   CheckBox,
   RatingBar,
   PagerIndicator,
+  Slider,
   Input,
   SelectBox,
-  Slider,
 };
